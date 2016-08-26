@@ -17,11 +17,11 @@ sudo apt-get upgrade
 〰➖〰➖〰➖〰➖〰
 🈂 بـعـديـن خـلـي / وانتر
 
-git clone https://github.com/iqabs/DevProx.git
+git clone https://github.com/llual/VIPTEAM.git
 〰➖〰➖〰➖〰➖〰
 🌀 وراهه خـلـي هذا كود / وانتر
 
-cd DevProx
+cd VIPTEAM
 〰➖〰➖〰➖〰➖〰
 💠 بـعـديـن خـلـي هاي / وانتر
 
